@@ -1,0 +1,10 @@
+global       threads= 4 time=0.029 s  throughput=27.20 M bookings/s
+per-train    threads= 4 time=0.030 s  throughput=26.62 M bookings/s
+per-coach    threads= 4 time=0.030 s  throughput=26.30 M bookings/s
+global       threads=16 time=0.116 s  throughput=27.59 M bookings/s
+per-train    threads=16 time=0.128 s  throughput=24.97 M bookings/s
+per-coach    threads=16 time=0.118 s  throughput=27.11 M bookings/s
+-- 1 ms check inside lock
+global       threads=16 time=5.349 s  throughput=0.00 M bookings/s
+per-train    threads=16 time=0.747 s  throughput=0.01 M bookings/s
+per-coach    threads=16 time=0.373 s  throughput=0.01 M bookings/s

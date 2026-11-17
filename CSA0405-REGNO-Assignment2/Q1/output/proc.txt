@@ -1,0 +1,7 @@
+Name:	fork_demo
+State:	S (sleeping)
+Pid:	227
+PPid:	219
+VmRSS:	     924 kB
+voluntary_ctxt_switches:	1
+nonvoluntary_ctxt_switches:	0

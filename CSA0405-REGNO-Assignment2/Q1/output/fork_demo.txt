@@ -1,0 +1,7 @@
+parent pid=129
+child 1: pid=130 ppid=129
+child 2: pid=131 ppid=129
+child 3: pid=132 ppid=129
+parent: child 130 finished, exit code 10
+parent: child 131 finished, exit code 11
+parent: child 132 finished, exit code 12

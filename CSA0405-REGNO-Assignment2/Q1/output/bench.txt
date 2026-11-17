@@ -1,0 +1,3 @@
+create+finish+wait of 2000 tasks: process 61.8 us each, thread 10.9 us each
+process switch (pipe ping-pong): 1.26 us per switch
+thread switch  (pipe ping-pong): 1.19 us per switch

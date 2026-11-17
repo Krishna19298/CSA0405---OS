@@ -1,0 +1,6 @@
+     n    time (ms)       passes
+    10       0.0002         safe
+   100       0.0127         safe
+  1000       1.0528         safe
+  2000       4.0663         safe
+  4000      12.9495         safe

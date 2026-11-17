@@ -1,0 +1,9 @@
+atomic  T= 1 result=1600000 wall=0.0152 s  ns/update=9.5  cpu=0.0151 s
+mutex   T= 1 result=1600000 wall=0.0332 s  ns/update=20.8  cpu=0.0332 s
+spin    T= 1 result=1600000 wall=0.0170 s  ns/update=10.6  cpu=0.0169 s
+atomic  T= 4 result=1600000 wall=0.0167 s  ns/update=10.5  cpu=0.0167 s
+mutex   T= 4 result=1600000 wall=0.0378 s  ns/update=23.6  cpu=0.0378 s
+spin    T= 4 result=1600000 wall=0.0330 s  ns/update=20.6  cpu=0.0329 s
+atomic  T=16 result=1600000 wall=0.0160 s  ns/update=10.0  cpu=0.0157 s
+mutex   T=16 result=1600000 wall=0.0304 s  ns/update=19.0  cpu=0.0303 s
+spin    T=16 result=1600000 wall=0.0627 s  ns/update=39.2  cpu=0.0626 s

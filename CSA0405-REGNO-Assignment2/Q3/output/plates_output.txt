@@ -1,0 +1,12 @@
+CPU only
+io_ms=0 serial: 0.262 s
+64 threads (1 per camera): 0.263 s speed-up 1.00
+pool of  4 threads: 0.271 s speed-up 0.97
+pool of  8 threads: 0.265 s speed-up 0.99
+pool of 16 threads: 0.265 s speed-up 0.99
+CPU + 20 ms wait
+io_ms=20 serial: 1.566 s
+64 threads (1 per camera): 0.284 s speed-up 5.51
+pool of  4 threads: 0.487 s speed-up 3.22
+pool of  8 threads: 0.360 s speed-up 4.36
+pool of 16 threads: 0.314 s speed-up 4.99

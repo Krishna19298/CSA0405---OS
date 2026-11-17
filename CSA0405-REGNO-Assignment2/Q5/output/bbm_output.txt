@@ -1,0 +1,3 @@
+K=1 mutex=1 consumed=2000 expected_sum=2001000 sum=2001000 missing=0 duplicated=0
+K=4 mutex=1 consumed=8000 expected_sum=32004000 sum=32004000 missing=0 duplicated=0
+K=4 mutex=0 consumed=8000 expected_sum=32004000 sum=32245242 missing=1165 duplicated=1076

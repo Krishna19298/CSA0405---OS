@@ -1,0 +1,3 @@
+expected    : 400000
+without lock: 100050
+with mutex  : 400000
